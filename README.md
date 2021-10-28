@@ -2,7 +2,7 @@
 ### Бронирование номеров и отдых в отеле GRAND HILTON HOTEL
 
 
-![Logo]()
+![Logo](https://github.com/Gorgeouskad/pokoleniechydes.github.io/blob/main/1.PNG)
 
 
 ## Команда разработки Поколение чудес
