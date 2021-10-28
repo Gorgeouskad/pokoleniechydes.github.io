@@ -1,2 +1,2 @@
-# pokoleniechydes.github.io
-Репозиторий для проекта
+# Сайт отеля GRAND HILTON HOTEL
+
