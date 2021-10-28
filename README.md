@@ -18,3 +18,4 @@
 |[Кузьмин Антон](https://github.com/Gorgeouskad/gorgeouskad.github.io)|**КО** / Технический писатель|
 |[Горынин Иван](https://github.com/TheWoodWard33/Igorynin.github.io)|**КО** / Программист|
 |[Кузнецов Егор](https://github.com/midorimaSh/KuznecovEgor.github.io)|**ПП** / Программист|
+|[Гришин Андрей](https://github.com/Grihaa/andrew.github.io)|**ВН** / Дизайнер|
