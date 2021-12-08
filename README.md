@@ -1,4 +1,4 @@
-## Сайт отеля GRAND HILTON HOTEL
+## Сайт бронирования отелей Best Tour Plan
 ### [Бронирование номеров на сайте Best Tour Plan]()
 
 
