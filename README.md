@@ -1,5 +1,6 @@
 ## Сайт отеля GRAND HILTON HOTEL
-### Бронирование номеров и отдых в отеле GRAND HILTON HOTEL
+### [Бронирование номеров и отдых в отеле GRAND HILTON HOTEL]()
+
 
 
 ![Logo](https://github.com/Gorgeouskad/pokoleniechydes.github.io/blob/main/1.PNG)
